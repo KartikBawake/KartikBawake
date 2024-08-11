@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Kartik😎
+- 👀 I’m proficient in Front-End and Back-End Development
+- 🌱 I’m currently learning "you really don't want to know"
+- 💞️ I’m looking to collaborate on fullscale Webapp developmental Projects
+- 📫 Reach me: kartikbawake1123@gmail.com
+- ❓ What do you call a magician's dog
+- ⚡ Fun fact: I know the answer of the above question
+- 😄 Pronouns: He/Him 
