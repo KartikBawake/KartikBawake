@@ -4,10 +4,6 @@
 
 I build scalable, robust, and efficient web applications. With a strong foundation in the enterprise Java ecosystem and modern frontend frameworks, I love bridging the gap between complex backend architecture and seamless user experiences.
 
----
-
-## 🛠️ Tech Stack
-
 ### ☕ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B0A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
