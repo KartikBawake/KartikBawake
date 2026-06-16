@@ -30,29 +30,3 @@ I build scalable, robust, and efficient web applications. With a strong foundati
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-## 📈 What I'm Up To
-- 🔭 **Current Focus:** Building microservices and RESTful APIs using Spring Boot and securing them.
-- 🌱 **Learning & Optimizing:** Fine-tuning database queries, managing transaction states in Hibernate, and exploring advanced React state management.
-- 💬 **Ask me about:** Designing relational schemas, Java streams, and connecting React components to Spring backends.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/kartikbawake" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
